@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .EVENTS one-word domains still available to buy.
 
-This dataset contains 3,980 .EVENTS one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,978 .EVENTS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.EVENTS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=events-oneword-domains&utm_content=description.top) (3,988) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.EVENTS one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.events      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.events      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.events  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.events      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.events  | available | 58       | 7%     | 9      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.EVENTS one word domai
 | abatic.events     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.events    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.events   | available | 50       | 1%     | 8      |           |         |         |
-| abc.events        | available | 102      | 41%    | 3      |           |         |         |
+| abc.events        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.events  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.events  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.events | available | 56       | 1%     | 10     |           |         |         |
