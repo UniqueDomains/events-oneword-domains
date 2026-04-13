@@ -76,13 +76,13 @@ print(df.head())
 | goon.events         | available | $21.99    | $56.99        | 80             | 35     | 5      | name.com         |
 | priceless.events    | resell    | —         | —             | 75             | 65     | 9      | Dynadot Inc      |
 | jack.events         | premium   | $42.90    | $42.90        | 76             | 43     | 4      | namecheap        |
-| cute.events         | available | $21.99    | $56.99        | 82             | 34     | 4      | name.com         |
+| progress.events     | available | $21.99    | $56.99        | 82             | 34     | 8      | name.com         |
 | domain.events       | resell    | —         | —             | 80             | 64     | 6      | Dynadot Inc      |
 | quick.events        | premium   | $42.90    | $42.90        | 72             | 41     | 5      | namecheap        |
-| progress.events     | available | $21.99    | $56.99        | 82             | 34     | 8      | name.com         |
+| coral.events        | available | $21.99    | $56.99        | 68             | 34     | 5      | name.com         |
 | sense.events        | resell    | —         | —             | 102            | 63     | 5      | Spaceship, Inc.  |
 | review.events       | premium   | $520      | $520          | 94             | 39     | 6      | namecheap        |
-| coral.events        | available | $21.99    | $56.99        | 68             | 34     | 5      | name.com         |
+| nimble.events       | available | $21.99    | $56.99        | 94             | 33     | 6      | name.com         |
 | web.events          | resell    | —         | —             | 72             | 61     | 3      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
