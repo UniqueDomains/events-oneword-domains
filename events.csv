@@ -761,6 +761,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 465aed77-00d3-49aa-ae49-32136862a6d5,goonebetter.events,available,21.99,,62,1,13,name.com,,
 467bfd25-6a8f-4e6e-9103-dc0d66ea7dbe,letitbeknown.events,available,21.99,,75,1,15,name.com,,
 467deca9-ba8b-4994-81d4-77d6ca99b6fc,Qtips.events,available,57.98,,60,4,6,namecheap,,
+468b65b4-3b17-4d50-b5ae-88cde6d04210,compete.events,premium,,,85,14,7,,,
 46c0d372-0099-46f8-a27d-c303039fdf22,busfare.events,available,21.99,,70,1,8,name.com,,
 4701992e-f23f-424f-8331-5c78c400e28d,rubs.events,available,21.99,,52,6,4,name.com,,
 471b6d19-41d1-40ad-9680-fc99ffc1db7e,cables.events,available,21.99,,54,11,6,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5d0308a2-68c0-43f5-8406-d0068e50a125,zombies.events,available,21.99,,44,11,7,name.com,,
 5d052762-6ec7-41c2-b5c3-fb83402d1d41,pals.events,available,21.99,,77,16,4,name.com,,
 5d19d256-017f-44e6-a62c-c3359847a4c6,underprotest.events,available,21.99,,30,1,13,name.com,,
-5d32fbd2-5e76-447d-8c44-2ad32471ea93,sucked.events,available,21.99,,54,4,6,name.com,,
