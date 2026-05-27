@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .events one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,833 domains · **Median ask:** $29.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/events`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | sacred.events      | resell    | —         | —             | 80             | 28     | 6      | GoDaddy.com, LLC |
 | Jim.events         | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
 | chem.events        | available | $21.99    | —             | 74             | 24     | 4      | name.com         |
-| pestcontrol.events | resell    | —         | —             | 74             | 18     | 12     | GoDaddy.com, LLC |
+| pestcontrol.events | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
 | boats.events       | premium   | $250      | —             | 52             | 24     | 5      | name.com         |
 | schools.events     | available | $21.99    | —             | 72             | 24     | 7      | name.com         |
 | streamed.events    | resell    | —         | —             | 73             | 9      | 8      | GoDaddy.com, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
