@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .events one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,833 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,833 domains · **Median ask:** $29.45 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,833 domains · **Median ask:** $32.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/events`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/events`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EVENTS one-word domai
 
 ### Files
 
-- `events.csv` — public CSV extract (1,000 rows)
-- `events.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `events.csv`, public CSV extract (1,000 rows)
+- `events.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| shortcuts.events   | available | $21.99    | —             | 48             | 41     | 10     | name.com         |
-| tickets.events     | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc      |
-| jobs.events        | premium   | $500      | —             | 79             | 42     | 4      | name.com         |
-| slots.events       | available | $21.99    | —             | 49             | 31     | 5      | name.com         |
-| sacred.events      | resell    | —         | —             | 80             | 28     | 6      | GoDaddy.com, LLC |
-| Jim.events         | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap        |
-| chem.events        | available | $21.99    | —             | 74             | 24     | 4      | name.com         |
-| pestcontrol.events | resell    | —         | —             | 74             | 16     | 12     | GoDaddy.com, LLC |
-| boats.events       | premium   | $250      | —             | 52             | 24     | 5      | name.com         |
-| schools.events     | available | $21.99    | —             | 72             | 24     | 7      | name.com         |
-| streamed.events    | resell    | —         | —             | 73             | 9      | 8      | GoDaddy.com, LLC |
-| hills.events       | premium   | $123.75   | —             | 65             | 20     | 5      | name.com         |
-| gamers.events      | available | $21.99    | —             | 62             | 24     | 6      | name.com         |
-| vacations.events   | premium   | $242      | $242          | 56             | 19     | 9      | namesilo         |
-| products.events    | available | $21.99    | —             | 60             | 23     | 8      | name.com         |
-| pictures.events    | premium   | $250      | —             | 82             | 17     | 8      | name.com         |
-| herbs.events       | available | $21.99    | —             | 62             | 22     | 5      | name.com         |
-| roses.events       | premium   | $46.20    | $46.20        | 68             | 16     | 5      | namecheap        |
-| beans.events       | available | $21.99    | —             | 74             | 21     | 5      | name.com         |
-| advisors.events    | premium   | $82.50    | —             | 52             | 16     | 8      | name.com         |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| feel.events     | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| sorry.events    | available | $21.99    | $56.99        | high           | low    | 5      | name.com                                                  |
+| special.events  | premium   | $500      | —             | high           | low    | 7      | name.com                                                  |
+| BJP.events      | available | $21.99    | —             | medium         | low    | 3      | name.com                                                  |
+| election.events | resell    | $21.99    | —             | high           | low    | 8      | GoDaddy.com, LLC                                          |
+| bed.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| NYT.events      | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
+| web.events      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| cot.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| ball.events     | available | $21.99    | —             | medium         | low    | 4      | name.com                                                  |
+| slot.events     | resell    | —         | —             | high           | low    | 4      | IONOS SE                                                  |
+| dip.events      | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                                  |
+| bomb.events     | available | $21.99    | —             | medium         | low    | 4      | name.com                                                  |
+| xmas.events     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| dog.events      | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| bump.events     | available | $21.99    | —             | medium         | low    | 4      | name.com                                                  |
+| local.events    | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC                                |
+| don.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| clam.events     | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| smart.events    | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .events extension, which makes the set highly specific: each option ties directly to events, ticketing, activations, conferences, communities, or experience-led brands. The sample shows a mix of direct and flexible words, from literal terms like feature.events to broader brandable options like paddle.events and big.events. With a median ask of 29.46, the main decision is usually not entry price but name quality. When comparing these domains, prioritize word clarity, commercial relevance, memorability, and whether the term feels natural to the .events ending. Also check for trademark sensitivity, especially with common product or category words.
+This list covers one-word .EVENTS domain names suited to conferences, festivals, launches, and campaign-specific sites. Each name pairs a short, memorable word with the .EVENTS extension, signaling purpose instantly to visitors. With a median asking price near $32 across 10,833 domains, the set stays budget-friendly for founders shortlisting a name and for buyers comparing pricing patterns across a single-TLD selection.
 
-- All names in this set use the .events extension
-- Median ask across the selection is 29.46
-- Best fits are clear words that pair naturally with .events
-- Watch trademark risk on commercial or branded terms
+- One-word .EVENTS names for events, launches, and campaigns
+- Median asking price near $32 across this selection
+- 10,833 domains updated daily for fresh availability
+- Short, memorable terms ready for brand ownership
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
