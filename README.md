@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .events one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,990 domains · **Median ask:** $21.96 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/events`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| feel.events     | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
-| sorry.events    | available | $21.99    | $56.99        | high           | low    | 5      | name.com                                                  |
 | BJP.events      | available | $21.99    | —             | medium         | low    | 3      | name.com                                                  |
 | election.events | resell    | $21.99    | —             | high           | low    | 8      | GoDaddy.com, LLC                                          |
 | bed.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
@@ -84,6 +82,8 @@ print(df.head())
 | bump.events     | available | $21.99    | —             | medium         | low    | 4      | name.com                                                  |
 | smart.events    | resell    | —         | —             | high           | medium | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
 | ear.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
+| clam.events     | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| token.events    | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
