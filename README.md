@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .events one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,645 domains · **Median ask:** $19.65 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/events`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | election.events | resell    | $21.99    | —             | high           | low    | 8      | GoDaddy.com, LLC                                          |
 | bed.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | lvi.events      | available | $10.48    | $57.98        | low            | low    | 3      | namecheap                                                 |
-| web.events      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                                           |
+| web.events      | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
 | cot.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                  |
 | NYT.events      | available | $21.99    | —             | high           | low    | 3      | name.com                                                  |
 | slot.events     | resell    | —         | —             | high           | low    | 4      | IONOS SE                                                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
