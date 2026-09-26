@@ -1,10 +1,10 @@
-# Available .EVENTS One-Word Domains (29,702)
+# Available .EVENTS One-Word Domains (19,926)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C702%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C926%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .events one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,702 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,926 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,702 domains · **Median ask:** $17.91 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 19,926 domains · **Median ask:** $20.62 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/events`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| ana.events      | available | $21.99    | —             | high           | low    | 3      | name.com                   |
-| election.events | resell    | $21.99    | —             | high           | low    | 8      | GoDaddy.com, LLC           |
-| bed.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| bjp.events      | available | $21.99    | —             | high           | low    | 3      | name.com                   |
-| anti.events     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| cot.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| icu.events      | available | $21.99    | —             | high           | low    | 3      | name.com                   |
-| auto.events     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC           |
-| dog.events      | premium   | $500      | —             | high           | low    | 3      | name.com                   |
-| lvi.events      | available | $10.48    | $57.98        | high           | low    | 3      | namecheap                  |
-| beam.events     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
-| don.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| nyt.events      | available | $21.99    | —             | high           | low    | 3      | name.com                   |
-| mode.events     | resell    | —         | —             | high           | low    | 4      | united-domains GmbH        |
-| ear.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| acts.events     | available | $21.99    | —             | high           | low    | 4      | name.com                   |
-| xmas.events     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC           |
-| flu.events      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
-| alky.events     | available | $10.48    | $57.98        | medium         | low    | 4      | namecheap                  |
-| local.events    | resell    | —         | —             | high           | medium | 5      | Squarespace Domains II LLC |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| apc.events    | available | $15.99    | $45.99        | high           | low    | 3      | namesilo          |
+| pub.events    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC  |
+| eta.events    | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap         |
+| dai.events    | available | $15.99    | $45.99        | high           | low    | 3      | namesilo          |
+| roots.events  | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC - 48 |
+| fee.events    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| hoy.events    | available | $15.99    | $45.99        | high           | low    | 3      | namesilo          |
+| spark.events  | resell    | —         | —             | high           | medium | 5      | —                 |
+| her.events    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ive.events    | available | $21.99    | —             | high           | low    | 3      | name.com          |
+| suite.events  | resell    | —         | —             | high           | low    | 5      | Dynadot Inc       |
+| mud.events    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| uup.events    | available | $15.99    | $45.99        | medium         | low    | 3      | namesilo          |
+| bigger.events | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC  |
+| org.events    | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| afrl.events   | available | $15.99    | $45.99        | medium         | low    | 4      | namesilo          |
+| shadow.events | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 36 |
+| rat.events    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
+| ahuh.events   | available | $21.99    | —             | medium         | low    | 4      | name.com          |
+| tennis.events | resell    | —         | —             | high           | low    | 6      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,702 live domains                        |
+| 1,000-row public sample | 19,926 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EVENTS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
